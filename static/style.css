@@ -1,0 +1,22 @@
+
+body{
+	
+	background-image: url("https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+background-position: 100%;
+  background-size: auto;
+}
+body h1
+{
+	color: green;
+}
+.login
+{
+margin: auto;
+  width: 50%;
+  border: 3px;
+  padding: 10px;
+}
+.form-group input
+{
+	/*width: 50%;*/
+}
